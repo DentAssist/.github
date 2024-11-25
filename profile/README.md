@@ -1,4 +1,4 @@
-#Meet out members!
+# Meet out members!
 
 | Learning Path       | Student ID    | Find us on LinkedIn!  |
 |---------------------| ------------- | ----------------------|
